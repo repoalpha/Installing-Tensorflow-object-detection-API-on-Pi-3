@@ -3,7 +3,7 @@
 This was forked from https://www.theta.co.nz/news-blogs/tech-blog/object-detection-on-a-raspberry-pi/
 
 Some alterations where relevant as I did this from a fresh install on Pi. You may need to reduce the split amount of ram used by the GPU 
-temporarily in case there are issues with memory resoruces during the install using:
+temporarily in case there are issues with memory resources during the install using:
 
 sudo raspi-config > then go to 'advanced' > memory split and set it to 16MB.
 (change it back to 64MB after its running)
