@@ -92,4 +92,8 @@ slim has moved into the research directory in the repo. To get it to work I had 
 
 export PYTHONPATH=/home/username/models/research/slim:$PYTHONPATH
 
+#Testing the intsall:
+
+Please run this test script to check the install:
+
 python3 object_detection/builders/model_builder_test.py
