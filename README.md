@@ -26,7 +26,7 @@ sudo apt-get update
 
 sudo apt-get install python-pip python-dev
 
-# For Python 3.3+
+# For Python 3.4+
 
 sudo apt-get install python3-pip python3-dev
 
@@ -53,7 +53,7 @@ sudo pip uninstall mock
 
 sudo pip install mock
 
-# For Python 3.3+
+# For Python 3.4+
 
 sudo pip3 uninstall mock
 
